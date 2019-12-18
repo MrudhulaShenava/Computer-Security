@@ -1,7 +1,7 @@
 # Computer-Security CSE 643
 
-This course was taught by Dr. Kevin Du  http://www.cis.syr.edu/~wedu/
-The course covers three divisions:
+This course was taught by Dr. Kevin Du  http://www.cis.syr.edu/~wedu/ .
+This course covers three divisions:
 1. System Security
    - Environment Variables and SetUID
    - Buffer Overflow Vulnerability
